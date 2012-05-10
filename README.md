@@ -1,4 +1,6 @@
-hate-crime
-==========
+# Hate Crime in the US
+### Microsite
 
-Hate Crime Microsite
+Currently a work in progres...
+
+Check out gh-pages branch for content.
