@@ -1,5 +1,5 @@
 # Hate Crime in the US
-### Microsite
+## Microsite
 
 Currently a work in progres...
 
